@@ -1,0 +1,16 @@
+_build
+elm-stuff
+log
+tmp
+npm-debug.log
+dist
+deps
+.elixir_ls
+db/*.sqlite3
+bin
+node_modules
+.rbx
+.DS_Store
+*~
+*#
+
